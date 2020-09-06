@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<time.h> 
 #include<stdlib.h>
-
+ 
 int score,moved,dim;
 int **num;
 
